@@ -1,0 +1,2 @@
+# Latihan-ami
+Latihan Github
