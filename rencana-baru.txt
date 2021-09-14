@@ -2,5 +2,8 @@ Rencana Baru Pembelajaran
 - Mempelajari Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Mempelajari CSS
 - Stuktur Data
+- Python
