@@ -4,4 +4,3 @@ Rencana Pembelajara Web Programming II
 - Mempelajari Framework
 - Mempelajari CodeIgniter
 - Mempelajari Bootstrap
-- Mempelajari Javascript
