@@ -3,3 +3,4 @@ Rencana Baru Pembelajaran
   * ES6
   * Framework Javascript
 - Mempelajari CSS
+- Stuktur Data
