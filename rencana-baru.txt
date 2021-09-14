@@ -1,3 +1,5 @@
 Rencana Baru Pembelajaran
 - Mempelajari Javascript
+  * ES6
+  * Framework Javascript
 - Mempelajari CSS
