@@ -1,0 +1,5 @@
+Rencana Pembelajara Web Programming II
+- Penjelasan Kontrak Kuliah
+- Mempelajari mengenai Git dan Github
+- Mempelajari Framework
+- Mempelajari CodeIgniter
