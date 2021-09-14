@@ -1,5 +1,7 @@
 Data Mining
 1. Task Klasifikasi
+   * Algoritma Decision Tree
+   * Algoritma Naive Bayes
 2. Task Klastering
 3. Task Regresi
 4. Task Asosiasi
