@@ -3,3 +3,5 @@ Rencana Pembelajara Web Programming II
 - Mempelajari mengenai Git dan Github
 - Mempelajari Framework
 - Mempelajari CodeIgniter
+- Mempelajari Bootstrap
+- Mempelajari Javascript
